@@ -1,2 +1,2 @@
 # hello-world
-this is my first rpoject
+this is my first project
